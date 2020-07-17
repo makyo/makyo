@@ -1,6 +1,6 @@
 # Madison Scott-Clary
 
-<img src="/forrest--monoprint-transparent--madison--G.png" align="left" width="250" />
+<img src="https://drab-makyo.com/commissions/forrest--monoprint-transparent--madison--G.png" align="left" width="250" />
 
 Hello! I am an author, editor, and software engineer living in the Pacific Northwest. I spend a lot of my free time writing and working on writing tech. You can find more of my writing over on [makyo.ink](https://makyo.ink). If you're looking to get in touch, [I got you covered](https://makyo.is).
 
