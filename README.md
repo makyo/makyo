@@ -27,4 +27,6 @@ Hello! I am an author, editor, and software engineer living in the Pacific North
 * [*Restless Town*](https://makyo.ink/publications/restless-town) - Ten short stories set in the fictional town of Sawtooth, ID *or* Sad Queer Animals In A Flyover State.
 * [*Eigengrau*](https://makyo.ink/publications/eigengrau) - Poetry 2015-2020.
 * [*ally*](https://ally.id/book) - An ergodic, semiautobiographical typesetting adventure. It even has a [making of](https://gum.co/ally-making-of).
-* [Qoheleth + Gallery Exhibition](https://qoheleth.makyo.ink) - A meta-furry, gender-weird pair of novellas set in the upcoming centuries.
+* [Qoheleth + Gallery Exhibition](https://qoheleth.makyo.ink) - A meta-furry, gender-weird pair of novellas set in the upcoming centuries. Book 1 in the [Post-Self trilogy](https://post-self.makyo.ink)
+* [A Wildness of the Heart](https://wwildness.makyo.ink) - Six short stories from Sawtooth, ID.
+* [Toledot](https://toledot.makyo.ink) - Book 2 in the Post-Self trilogy.
