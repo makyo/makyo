@@ -1,4 +1,4 @@
-# Madison Scott-Clary
+# Madison Rye Progress
 
 <img src="https://drab-makyo.com/commissions/forrest--monoprint-transparent--madison--G.png" align="left" width="250" />
 
