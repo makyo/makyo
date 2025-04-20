@@ -8,10 +8,10 @@ Hello! I am an author, editor, and software engineer living in the Pacific North
 
 ## Currently working on...
 
+* [Lagrange Substations](https://lagrange14.com) ([repo](https://github.com/lagrage14/substations)) — a fork of the game Space Station 14 set in the Post-Self universe with its own play modes and slowly evolving mechanics.
 * [Gogol](https://github.com/makyo/gogol) — an exploration in algorithms in Go, using Conway's Game of Life as a basis.
 * [Stimmtausch](https://stimmtausch.com) ([repo](https://github.com/makyo/stimmtausch)) — A MUCK client designed around the concept of Everything Is A Writer. It relies on named pipes for managing connections, allowing you to [chat with vim](https://github.com/makyo/stimmtausch.vim).
 * [Polycul.es](https://polycul.es) ([repo](https://github.com/makyo/polycul.es)) — A tool for using force directed graphs to visualize polyamorous relationship structures.
-* [*Idumea*](https://idumea.post-self.ink) — A fairytale novel(la) set in the Post-Self universe exploring mental health.
 
 ## Publications
 
@@ -37,4 +37,4 @@ Hello! I am an author, editor, and software engineer living in the Pacific North
   4. [*Mitzvot + Selected Letters*](https://mitzvot.post-self.ink) - Book 4 in the Post-Self cycle.
 * [*Marsh*](https://marsh.post-self.ink) — A novel in the Post-Self universe focusing on dealing with a disaster.
 * [*Motes Played*](https://motes-played.post-self.ink) — A novella in the Post-Self universe focusing on reclaiming memories of childhood.
-
+* [*Idumea*](https://idumea.post-self.ink) — A fairytale novel(la) set in the Post-Self universe exploring mental health.
