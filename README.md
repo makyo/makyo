@@ -9,6 +9,10 @@ Hello! I am an author, editor, and software engineer living in the Pacific North
 ## Currently working on...
 
 * [Lagrange Substations](https://lagrange14.com) ([repo](https://github.com/lagrage14/substations)) — a fork of the game Space Station 14 set in the Post-Self universe with its own play modes and slowly evolving mechanics.
+* [gogogogogram](https://github.com/makyo/gogogogogram) — a simple picross-style game written for the terminal to learn more about the TUI library BubbleTea, based off of [nonononogram](https://wishvolo.itch.io/nonononogram).
+
+### Other projects
+
 * [Gogol](https://github.com/makyo/gogol) — an exploration in algorithms in Go, using Conway's Game of Life as a basis.
 * [Stimmtausch](https://stimmtausch.com) ([repo](https://github.com/makyo/stimmtausch)) — A MUCK client designed around the concept of Everything Is A Writer. It relies on named pipes for managing connections, allowing you to [chat with vim](https://github.com/makyo/stimmtausch.vim).
 * [Polycul.es](https://polycul.es) ([repo](https://github.com/makyo/polycul.es)) — A tool for using force directed graphs to visualize polyamorous relationship structures.
@@ -21,7 +25,7 @@ Hello! I am an author, editor, and software engineer living in the Pacific North
 * [*Gender: Furry*](http://thurstonhowlpub.storenvy.com/collections/1587098-anthologies/products/21737930-furries-among-us-2-more-essays-on-furries-by-furries) — An essay in the anthology *Furries Among Us 2*.
 * [*Arcana: A Tarot Anthology*](https://makyo.ink/publications/arcana/) — An anthology of diverse furry fiction surrounding the major arcana of the tarot deck (edited; one short story).
 * [*Tracking an Anthology* and *Layout and Design*](http://boundtales.storenvy.com/products/30392965-from-paw-to-print-essays-about-writing-in-the-furry-fandom) — Two articles for the anthology *Paw to Print*.
-* [*Clade — A Post-Self Anthology*](https://clade.post-self.ink) — An anthology of short stories set in [the Post-Self universe](https://post-self.ink) (edited; one  short story)
+* [*Clade — A Post-Self Anthology*](https://clade.post-self.ink) — An anthology of short stories set in [the Post-Self universe](https://post-self.ink) (edited; one short story)
 * [*Ask. — An Odist Q&A*](https://ask.post-self.ink) — An anthology of short- and micro-fiction taking the form of questions and answers with the members of the Ode clade.
 
 ### Books
